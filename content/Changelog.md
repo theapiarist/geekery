@@ -1,3 +1,5 @@
+- 2026-06-09 · [[Quartz cheatsheet]]
+- 2026-06-09 · [[Obsidian markdown test page]]
 - 2026-06-08 · [[Choosing Google fonts]]
 - 2026-06-08 · [[Open Finder window from the command line]]
 - 2026-06-07 · [[ImageMagick and homebrew font problems]]
@@ -16,5 +18,3 @@
 - 2026-05-18 · [[Complex 2D shapes in Autodesk's Fusion]]
 - 2026-05-18 · [[A writefreely contact form]]
 - 2026-05-18 · [[Writefreely and images]]
-- 2026-05-18 · [[The LanguageTool personal dictionary]]
-- 2026-05-18 · [[Synchronising the Obsidian, browser, and LanguageTool custom dictionaries]]

@@ -1,12 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Geekery
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
-  locale: en-US
+    provider: goatcounter
+    websiteId: geekery
+  locale: en-GB
   baseUrl: geekery.theapiarist.org
   ignorePatterns:
     - private
@@ -16,8 +17,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      title: Overlock
+      header: Khula
+      body: Noto Sans
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -63,6 +65,10 @@ plugins:
     options:
       enableInHtmlEmbed: false
       enableCheckbox: true
+      wikilinks: true
+      comments: true
+      callouts: true
+      parseTags: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
