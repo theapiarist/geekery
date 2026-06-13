@@ -32,12 +32,23 @@ Here is an embedded #markdown tag
 
 ### Callouts
 
+```
+> [!warning]
+> And here is on Obsidian flavoured warning callout.
+```
+
+
 > [!warning]
 > And here is on Obsidian flavoured warning callout.
 
 You can also add custom title text to these:
 
-> [!warning] Yikes
+```
+> [!note] Yikes
+> And here is on Obsidian flavoured warning callout.
+```
+
+> [!note] Yikes
 > And here is on Obsidian flavoured warning callout.
 
 [[Subscribe]] is where the RSS feed resides.
