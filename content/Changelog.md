@@ -1,4 +1,4 @@
-- 2026-07-03 · [[Change Pihole password in Docker container]]
+- 2026-07-04 · [[Change Pihole password in Docker container]]
 - 2026-07-03 · [[Raspberry Pi 'pihole' installation]]
 - 2026-06-14 · [[Raspberry Pi 'vanilla' installation]]
 - 2026-06-14 · [[Use Maestral not Dropbox]]
