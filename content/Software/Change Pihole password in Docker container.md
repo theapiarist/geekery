@@ -4,6 +4,10 @@ created:
 updated:
 draft: "false"
 tags:
+  - docker
+  - raspberrypi
+  - linux
+  - software
 ---
 Most instructions for running Pihole using Docker set the password as an environment variable in `compose.yml`. It's in this section:
 
