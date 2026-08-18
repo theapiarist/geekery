@@ -9,6 +9,8 @@ tags:
 ---
 [Maestral](https://maestral.app/) is an open source Dropbox client written in python. Smaller and lighter, and with a good CLI.
 
+**Note** … maestral is [no longer being maintained](https://github.com/samschott/maestral). Search for an alternative?
+
 ## Install on OS X
 
 Use #homebrew . It just works!
